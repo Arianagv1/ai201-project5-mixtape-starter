@@ -104,14 +104,4 @@ Start with `models.py` to understand the data model. Then trace a feature throug
 
 Understanding the full call chain is part of the exercise — don't skip to the service file directly.
 
----
 
-## Submission
-
-Create a branch named `bugfix/mixtape` for your fixes. Each bug fix should be its own commit using conventional format:
-
-```
-fix: correct Sunday boundary condition in streak reset logic
-```
-
-See the project brief for full submission requirements.
